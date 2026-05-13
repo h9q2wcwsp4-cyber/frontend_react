@@ -12,6 +12,15 @@ import './App.css'
   ]
   //매핑1
 
+const soutces = [0,1,2,3]
+temp = []
+for (let item of source){
+  tmp.push(item*2)
+}
+
+Source.map(item=>(item*2))
+git add <div className=""></div>
+
   function App() {
 
   return (
